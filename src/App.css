@@ -1,0 +1,72 @@
+.header {
+  background-color: #012951;
+  padding: 1px;
+}
+
+h1 {
+  font-family: 'Montaga';
+  font-size: 2.5rem;
+  margin-top: 100px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  background-color: #012951;
+  color: white;
+  display: block;
+}
+
+.box {
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 50px;
+}
+
+table.per {
+  width: 50%;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+.header {
+  text-align: none;
+  color: aliceblue;
+}
+
+p {
+  text-align: center;
+}
+
+form {
+  border: 3px solid #040202;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgrey;
+
+}
+
+.form-group {
+  padding: 10px;
+}
+.printbtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:green;
+  color: white;
+}

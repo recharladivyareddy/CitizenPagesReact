@@ -1,0 +1,6 @@
+[
+    { "id":1,"name": "Sydney", "regno": 166897172, "chassis": 13945917,"date": "13-09-2021" },
+    { "id":2,"name": "John",  "regno": 163328018, "chassis": 12895344,"date": "08-01-2020"   },
+    { "id":2,"name": "Adam",  "regno": 163328018, "chassis": 12895344,"date": "04-04-2004" },
+    { "id":3,"name": "Cristopher",  "regno": 214893984, "chassis": 12134193,"date": "10-02-2023"}
+]
