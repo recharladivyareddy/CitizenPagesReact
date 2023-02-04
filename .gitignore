@@ -2,9 +2,13 @@
 
 # dependencies
 /node_modules
+/code.js
+/package.json
+/code.js
+/code2.js
 /.pnp
 .pnp.js
-.data.js
+
 
 # testing
 /coverage
