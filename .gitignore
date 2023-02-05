@@ -2,9 +2,13 @@
 
 # dependencies
 /node_modules
+<<<<<<< HEAD
 /package.json
 /code.js
 /code2.js
+=======
+.package-lock.json
+>>>>>>> fb0f59ca88ee521750d53dc799106d3c62c9357b
 /.pnp
 .pnp.js
 
